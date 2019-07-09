@@ -1,2 +1,2 @@
-n=input()
-print(n.title())
+name=input()
+print(name.title())
