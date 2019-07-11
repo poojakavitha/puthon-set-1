@@ -6,5 +6,5 @@ for i in range(n1,n2+1):
       if i%j==0:
         break
       else:
-        n3++
+        n3+=1
 print(n3)
