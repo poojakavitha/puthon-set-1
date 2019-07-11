@@ -1,2 +1,3 @@
 str=input()
-print(str.title())
+str1=str.title()
+print(str)
