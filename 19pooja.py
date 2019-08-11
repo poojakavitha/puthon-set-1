@@ -9,5 +9,5 @@ while(i<=x):
                 k=k+1
             j=j+1
         if(k==2):
-            print(i)
+            print(i,end=" ")
     i=i+1
