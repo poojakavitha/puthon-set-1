@@ -5,7 +5,7 @@ if(l>r):
 else:
   min1=r
 while(1):
-  if(min1%a==0 andd min1%b==0):
+  if(min1%a==0 and min1%b==0):
     print(min)
     break
   min1=min1+1
