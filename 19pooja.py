@@ -1,8 +1,8 @@
-n=int(input())
+x=int(input())
 i=1
-while(i<=n):
+while(i<=x):
     k=0
-    if(n%i==0):
+    if(x%i==0):
         j=1
         while(j<=i):
             if(i%j==0):
